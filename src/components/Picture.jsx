@@ -21,8 +21,9 @@ function Picture() {
   return (
     <SectionWrapper>
       <Link to="/card">
-        <p className="absolute text-4xl font-bold text-customBlue inset-0 flex justify-center items-center text-center transform rotate-6 cursor-pointer">
-          You're Getting Old! :P
+        <p className="absolute text-4xl font-bold text-customWhite inset-0 flex justify-center items-center text-center transform rotate-6 cursor-pointer">
+          IT'S UR SPECIAL DAYY🥳
+          🎂🎈💖🌷💫🍰🎊🎀
         </p>
       </Link>
       {!allImagesLoaded && (

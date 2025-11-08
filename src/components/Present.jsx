@@ -5,8 +5,8 @@ function Present() {
   return (
     <SectionWrapper>
       <div className='mb-64'>
-        <h1 className="absolute -top-[7rem] left-0 right-0 text-center flex items-center justify-center text-xl font-extrabold text-customBlue drop-shadow-lg">
-          Click the box to see your gifts!
+        <h1 className="absolute -top-[7rem] left-0 right-0 text-center flex items-center justify-center text-xl font-extrabold text-customBlack drop-shadow-lg">
+          Tekan box ini liat hadiah kamuu😙
         </h1>
       </div>
       <div className="birthday-gift">
@@ -16,17 +16,17 @@ function Present() {
           <div className="gift-bottom"></div>
           <div id="raffle-red" className="entry raffle raffle-1">
             <div className="no-scale">
-              <span className="ticket-text">Free<br/>Pedicure</span>
+              <span className="ticket-text">Free<br/>WISH CARD</span>
             </div>
           </div>
           <div id="raffle-red" className="entry raffle raffle-2">
             <div className="no-scale">
-              <span className="ticket-text">Free<br/>Massage</span>
+              <span className="ticket-text">Free<br/>MOVIE DATE</span>
             </div>
           </div>
           <div id="raffle-red" className="entry raffle raffle-3">
             <div className="no-scale">
-              <span className="ticket-text">Free<br/>Dinner</span>
+              <span className="ticket-text">Free<br/>FOOD PICK</span>
             </div>
           </div>
         </label>
